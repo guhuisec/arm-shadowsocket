@@ -1,0 +1,8 @@
+{
+	"server":"本机外网ip",
+		"server_port":81,
+		"local_port":3111,
+		"password":"fuckyou",
+		"timeout":600,
+		"method":"aes-256-cfb"
+}
