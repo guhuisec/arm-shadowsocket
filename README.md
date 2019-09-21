@@ -1,0 +1,2 @@
+# arm-shadowsocket
+本人只是把python2和shadowsocks一起打包成可以在arm下运行的的shadowsocket
